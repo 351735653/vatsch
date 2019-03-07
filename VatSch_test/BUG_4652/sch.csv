@@ -1,0 +1,2 @@
+//0-vatId,1-batchId,2-startTm,3-endTm,4-productId,5-color,6-fluo,7-num,8-isFirstVat,9-yarnWarning,10-dyeWarning,11-auxiWarning,12-colorWarning,13-cardWarning,14-darkVatWarning,15-type,16-yarnCheckedOut,17-isInsertJob,18-number,19-batchIdOld
+21D,A1804002590,2018/04/02 05:00:00,2018/04/02 17:00:00,1320603A0032-1,4,1,20,0,0,0,0,0,0,0,0,0,1,1

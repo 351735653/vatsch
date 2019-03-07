@@ -1,0 +1,3 @@
+//num,type,source,composition,customer_name,priority,due_date,yarn_kind,yarn_category,yarn_id,proportion,batch_num,grade,color,color_type,yarn_all_num,source_goods_weight,threshold,yarn_finished,first_vat_num,first_vat_finished,first_vat_confirmed,yarn_ready_time,dye,auxiliary,color_confirmed,card_confirmed,fluo,prohibit_fluo,specified_date,latest_arr_date,max_split_times,current_split_times,max_vat_num
+171-190131-0001_1,0,A,Y,海宁市弘锦针织有限公司,B,2019/02/13,东丽,高配棉,32S/40D,100,YYTEST1,,19SSBGD00004#,4,314,940,30,75,75,1,1,3,1#1,1#1,1,1,0,0,,,1,0,0
+171-190213-0002_1,0,B,Y,海宁市天鸿贸易有限公司,B,2019/02/15,,涤纶/棉,32S/1,65/35,金源20181031(天鸿),,05751BLYD2,3,31,90.09,0,0,0,0,0,3,1#1,1#1,0,0,0,0,,,1,0,0

@@ -1,0 +1,4 @@
+//vat_id,batch_id,start_time,end_time,product_id,color,fluo,num,is_first_vat,yarn_warning,dye_warning,auxi_warning,color_warning,card_warning,dark_vat_warning,type,yarn_checked_out,is_insert_job
+RS44,A1901002610,2019/02/05 08:00:00,2019/02/05 20:00:00,171-190129-0001_1,4,0,119,0,0,0,0,0,0,0,0,0,1
+RS44,A1901002600,2019/02/06 08:00:00,2019/02/06 20:00:00,171-190129-0001_1,4,0,120,0,0,0,0,0,0,0,0,0,0
+RS47,A1901002590,2019/01/30 08:00:00,2019/01/30 20:00:00,171-190129-0001_1,4,0,75,1,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+//0-vatId,1-batchId,2-startTm,3-endTm,4-productId,5-color,6-fluo,7-num,8-isFirstVat,9-yarnWarning,10-dyeWarning,11-auxiWarning,12-colorWarning,13-cardWarning,14-darkVatWarning,15-type,16-yarnCheckedOut,17-isInsertJob,18-number,19-batchIdOld
+RS52,B1902000040,2019/02/17 08:00:00,2019/02/17 20:00:00,171-190213-0002_1,3,0,31,0,1,0,0,1,0,0,0,0,1,1
